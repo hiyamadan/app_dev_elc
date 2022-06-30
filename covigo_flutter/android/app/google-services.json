@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "688221592615",
+    "project_id": "covid-app-eec4e",
+    "storage_bucket": "covid-app-eec4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:688221592615:android:bbed9c655fca8c6f83c202",
+        "android_client_info": {
+          "package_name": "com.tagarwal.covigo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "688221592615-e3jj59d6mljgp5cdb14lu6djvclhbbkg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tagarwal.covigo",
+            "certificate_hash": "579eed4a7ac2ce7000afa27a551461315b93621e"
+          }
+        },
+        {
+          "client_id": "688221592615-8uid0gjbn9k3vjb9uf6l8e251ssbi84b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8VQCyQVkLDjiOi7gaEeT-D_pWH84bbE0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "688221592615-8uid0gjbn9k3vjb9uf6l8e251ssbi84b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
